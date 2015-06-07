@@ -6,7 +6,8 @@ use warnings;
 
 use Test::More 0.98;
 
-# test that windows/strawberry perl can temporarily set ENV var
+# investigating failures in recent Data-Sah, i'm testing that windows/strawberry
+# perl can temporarily set ENV var
 
 plan skip_all => "FOO_BAR is set???" if $ENV{FOO_BAR};
 
