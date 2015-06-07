@@ -8,7 +8,7 @@ use strict;
 use warnings;
 
 1;
-# ABSTRACT: Module to test various things
+# ABSTRACT: Distribution to test various things
 
 =head1 DESCRIPTION
 
