@@ -6,8 +6,11 @@ use warnings;
 
 use Test::More 0.98;
 
-# investigating failures in recent Data-Sah, i'm testing that windows/strawberry
-# perl can temporarily set ENV var
+# investigating failures in recent Data-Sah, i'm suspecting that in some
+# systems, we couldn't properly set ENV var like DATA_SAH_PP et al temporarily.
+# UPDATE: doesn't seem to be the case, the test results are successful. btw,
+# anyway, i'm switching from using ENV to using package globals in
+# Data-Sah-0.62.
 
 plan skip_all => "FOO_BAR is set???" if $ENV{FOO_BAR};
 
