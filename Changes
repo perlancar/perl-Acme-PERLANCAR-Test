@@ -1,5 +1,13 @@
 Revision history for Acme-PERLANCAR-Test
 
+0.11     2015-06-14 (PERLANCAR)
+
+         - No functional changes.
+
+         - Producing several releases in rapid succession to test PAUSE indexer
+           SQLite locking problem.
+
+
 0.10     2015-06-14 (PERLANCAR)
 
          - No functional changes.
