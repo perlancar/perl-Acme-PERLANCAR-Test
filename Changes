@@ -1,5 +1,15 @@
 Revision history for Acme-PERLANCAR-Test
 
+0.02     2015-06-14 (PERLANCAR)
+
+         - Remove t/env.t.
+
+         - Producing several releases in rapid succession to test PAUSE indexer
+           SQLite locking problem. I used to upload several releases at once and
+           encountered the problem several times, but lost the old email
+           messages.
+
+
 0.01     2015-06-07 (PERLANCAR)
 
          - First release.
