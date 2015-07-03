@@ -8,7 +8,12 @@ use strict;
 use warnings;
 
 1;
+__END__
 # ABSTRACT: Distribution to test various things
+
+# DATE
+# DIST
+# VERSION
 
 =head1 DESCRIPTION
 
