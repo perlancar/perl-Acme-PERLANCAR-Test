@@ -1,0 +1,5 @@
+=pod
+
+=head2 DESCRIPTION
+
+This is a test to see whether a binary's POD can be separated.

@@ -1,0 +1,9 @@
+#!perl
+
+# DATE
+# VERSION
+
+print "Hello, world\n";
+
+# ABSTRACT: A test CLI
+# PODNAME: perlancar-test1
