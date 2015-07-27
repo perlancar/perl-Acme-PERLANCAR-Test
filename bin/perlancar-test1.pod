@@ -1,3 +1,6 @@
+# PODNAME: perlancar-test1
+# ABSTRACT: A test CLI
+
 =pod
 
 =head2 DESCRIPTION
