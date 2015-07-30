@@ -16,3 +16,5 @@ __END__
 
 You should not be using this module. This distribution contains various tests
 that are mostly only of concern to me.
+
+# PACKED_CONTENTS_POD

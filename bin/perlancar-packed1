@@ -1,0 +1,8 @@
+#!perl
+
+require Data::Transmute;
+require Data::Dmp;
+
+1;
+# ABSTRACT: An example packed script
+# PODNAME: perlancar-packed1
