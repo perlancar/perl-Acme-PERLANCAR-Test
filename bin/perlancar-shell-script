@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# PODNAME: perlancar-shell-script
-# ABSTRACT: A test shell script
-
-echo "This is a test"
-exit 0
