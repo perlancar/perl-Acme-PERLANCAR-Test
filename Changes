@@ -1,5 +1,11 @@
 Revision history for Acme-PERLANCAR-Test
 
+0.28    2015-11-19 (PERLANCAR)
+
+	- Add t/printenv.t to peek into CPANTesters environment variables
+	  (I want to know how many enable EXTENDED_TESTING).
+
+
 0.27    2015-07-27 (PERLANCAR)
 
 	- Move test script's .pod to lib/.
