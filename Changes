@@ -1,5 +1,3 @@
-Revision history for Acme-PERLANCAR-Test
-
 0.28    2015-11-19 (PERLANCAR)
 
 	- Add t/printenv.t to peek into CPANTesters environment variables
